@@ -6,6 +6,7 @@ Welcome to the repository of answered exercises for the Neural Networks course! 
 
 - [Exercise Set 1](./list_1/)
 - [Exercise Set 2](./list_2/)
+- [Exercise Set 2](./list_3/)
 
 Each folder above contains a set of answered exercises, along with the data used to complete them.
 
