@@ -15,7 +15,7 @@ Each folder above contains a set of answered exercises, along with the data used
 To get started, you can clone this repository using the following command:
 
 ```bash
-git clone https://github.com/thaisaraujo2000/neural-networks.git
+git clone https://github.com/thaisaraujom/neural-networks.git
 ```
 
 Next, you can open the Jupyter notebooks in each exercise folder to see the exercise answers. Remember to install all the necessary dependencies!
